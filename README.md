@@ -1,11 +1,6 @@
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=pedrocassol&show_icons=true&include_all_commits=true&theme=github_dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocassol&layout=compact&theme=github_dark)
-
 ## Principais linguagens utilizadas
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrocassol&layout=compact&langs_count=7&bg_color=5D3587&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD1E3&border_color=FFFFFF)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrocassol&layout=compact&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=30363D)
 
 ## Commits
 
