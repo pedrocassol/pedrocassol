@@ -9,4 +9,4 @@
 
 ## Commits
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pedrocassol&show_icons=true&hide_title=true&hide=stars&bg_color=5D3587&title_color=FFD1E3&text_color=FFFFFF&icon_color=FFD1E3&border_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pedrocassol&show_icons=true&hide_title=true&hide=stars&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=30363D)
