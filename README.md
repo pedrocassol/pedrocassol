@@ -4,7 +4,7 @@
 
 💻 Técnico em Informática pelo **Instituto Federal Farroupilha**.
 
-🚀 Tenho interesse em **desenvolvimento de software**, principalmente no desenvolvimento de aplicações web, atuando tanto no **front-end** quanto no **back-end**.
+🚀 Tenho interesse em **desenvolvimento de software**, atuando tanto no **front-end** quanto no **back-end**.
 
 Atualmente estou em busca de uma oportunidade de **estágio em desenvolvimento de software**, onde eu possa aplicar meus conhecimentos, aprender continuamente e contribuir para o desenvolvimento de soluções de qualidade.
 
