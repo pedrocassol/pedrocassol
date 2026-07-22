@@ -44,11 +44,9 @@ Atualmente estou em busca de uma oportunidade de **estágio em desenvolvimento d
 
 ## 📈 Estatísticas
 
-<p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrocassol&show_icons=true&hide_title=true&hide=stars&bg_color=0D1117&title_color=9984d3&text_color=FFFFFF&icon_color=9984d3&border_color=9984d3"/>
 
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrocassol&layout=compact&langs_count=8&bg_color=0D1117&title_color=9984d3&text_color=FFFFFF&icon_color=9984d3&border_color=9984d3"/>
-</p>
 
 ---
 
