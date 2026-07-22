@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Pedro Cassol
+# Olá! 👋
 
 🎓 Estudante de **Sistemas para Internet** na **Universidade Federal de Santa Maria (UFSM)**.
 
